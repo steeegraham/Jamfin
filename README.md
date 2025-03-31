@@ -1,9 +1,9 @@
 <div align="center">
 <img src="assets/logo.png" alt="Logo" width="125"/>
 
-[![Download Hits](https://data.jsdelivr.com/v1/package/gh/JamsRepos/Jamfin/badge)](https://www.jsdelivr.com/package/gh/JamsRepos/Jamfin)
+[![Download Hits](https://data.jsdelivr.com/v1/package/gh/steeegraham/Jamfin/badge)](https://www.jsdelivr.com/package/gh/steeegraham/Jamfin)
 
-( <a href="https://github.com/JamsRepos/Jamfin#ℹ%EF%B8%8F-welcome">About</a> - <a href="https://github.com/JamsRepos/Jamfin#-screenshots">Screenshots</a> )
+( <a href="https://github.com/steeegraham/Jamfin#ℹ%EF%B8%8F-welcome">About</a> - <a href="https://github.com/steeegraham/Jamfin#-screenshots">Screenshots</a> )
 
 ## ℹ️ Welcome
 
@@ -20,7 +20,7 @@ The following line includes the base theme as well as all our optional modules. 
 <div align="left">
 
 ```css
-@import url("https://github.com/steeegraham/Jamfin/blob/main/theme/complete.css");
+@import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/complete.css");
 ```
 
 </div>
@@ -30,7 +30,7 @@ If you just want the theme without all our modules integrated, simply copy this 
 <div align="left">
 
 ```css
-@import url("https://github.com/steeegraham/Jamfin/blob/main/theme/base.css");
+@import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/base.css");
 ```
 
 </div>
