@@ -5,7 +5,7 @@
 */
 
 @import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/base.css");
-@import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/modules/static-sidebar.css");
+# @import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/modules/static-sidebar.css");
 @import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/modules/central-libraries-small.css");
 @import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/modules/change-logo.css");
 @import url("https://cdn.jsdelivr.net/gh/steeegraham/Jamfin@latest/theme/modules/count-indicators.css");
